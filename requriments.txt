@@ -1,19 +1,8 @@
-# Core scientific stack
 numpy
 pandas
 matplotlib
-scikit-learn
-
-
-# Graph & simulation
-networkx==3.3
-
-# Explainability
-shap==0.45.1
+networkx
+shap
 lime
-
-# Web UI
+scikit-learn
 streamlit
-
-# (Optional) For Jupyter/interactive work if needed
-ipython
