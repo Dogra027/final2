@@ -6,10 +6,10 @@ scikit-learn
 
 
 # Graph & simulation
-networkx
+networkx==3.3
 
 # Explainability
-shap
+shap==0.45.1
 lime
 
 # Web UI
