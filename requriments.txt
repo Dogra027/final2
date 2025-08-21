@@ -152,5 +152,6 @@ Werkzeug
 widgetsnbextension
 wrapt
 xgboost
+networkx
 
 
