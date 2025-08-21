@@ -7,6 +7,6 @@ seaborn==0.13.2
 plotly==5.23.0
 requests==2.32.3
 Pillow==10.4.0
-networkx==3.3
+networkx==3.5
 shap==0.45.1
 lime==0.2.0.1
